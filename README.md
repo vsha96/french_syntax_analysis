@@ -17,7 +17,7 @@ Run ```swipl.pl syntax_analysis.pl```
 
 ## How it works
 
-The solution is based on a simple context-free grammar that describes a small subset of the French language. Difference lists are explicitly used for unification, although the Prolog has its own syntax for this process (search for --> in swi Prolog).  
+The solution is based on a simple context-free grammar that describes a small subset of the French language. Difference lists are explicitly used for unification, although the Prolog has its own syntax for this process (search for ```-->``` in swi Prolog).  
 
 ## Grammar for french:  
 
